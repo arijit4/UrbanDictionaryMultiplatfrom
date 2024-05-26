@@ -29,4 +29,4 @@ Additional features:
   will open up with the results for that phrase without opening a new tab or so
 - Fluid search experience
 
-Cheers!:confetti_ball:
+Cheers!🎊
